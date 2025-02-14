@@ -6,8 +6,6 @@ By leveraging exploratory data analysis (EDA), customer purchasing behaviors and
 The dataset includes transaction records, product details, and customer demographics, enabling a comprehensive analysis of shopping trends.
 
 Key Skills & Techniques:
-Data wrangling and merging
-Data grouping and aggregation
-Deriving meaningful variables
+Data wrangling and merging, Data grouping and aggregation, Deriving meaningful variables
 
 Data source provided by CareerFoundry. Instacart online shopping data set from 2017 via Kaggle
