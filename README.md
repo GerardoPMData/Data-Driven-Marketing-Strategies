@@ -1,7 +1,11 @@
-# CF5.7Python
-Instacart - Discovering sales patterns using Python:
+Project Description: Instacart – Discovering Sales Patterns Using Python
+This repository contains Python code developed to analyze sales patterns of Instacart customers, an online grocery retailer. The objective is to uncover key insights that inform marketing strategies and improve product segmentation.
 
-This repository consists of Python code created in order to uncover more information on the sales patterns of Instacart, an online grocery store.
+By leveraging exploratory data analysis (EDA), customer purchasing behaviors and population flows were examined to enhance targeted marketing campaigns. Actionable recommendations have been derived to optimize customer engagement and product placement strategies.
 
-Data belongs to a number of open-source data sets from Instacart:
-"The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 17.11.2024
+The dataset includes transaction records, product details, and customer demographics, enabling a comprehensive analysis of shopping trends.
+
+Key Skills & Techniques:
+Data wrangling and merging
+Data grouping and aggregation
+Deriving meaningful variables
