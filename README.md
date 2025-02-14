@@ -9,3 +9,6 @@ Key Skills & Techniques:
 Data wrangling and merging
 Data grouping and aggregation
 Deriving meaningful variables
+
+Data source provided by CareerFoundry
+Instacart online shopping data set from 2017 via Kaggle
